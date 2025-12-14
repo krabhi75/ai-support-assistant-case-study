@@ -1,19 +1,23 @@
-# Metrics Framework
+# Metrics Framework (v1.0)
 
 ## North Star Metric
-Ticket Deflection Rate (% of L1 tickets resolved by AI)
+Ticket Deflection Rate (percentage of L1 tickets resolved by AI)
 
-## Supporting Metrics
+## Product Metrics
 - CSAT
 - First Response Time
 - Escalation Rate
 
 ## AI Quality Metrics
-- Answer accuracy (human review)
-- Hallucination rate
-- Source coverage
+- Answer Accuracy Score (human-reviewed)
+- Hallucination Rate
+- Source Coverage Ratio
+
+## Evaluation Metrics
+- Average evaluation score
+- % responses below threshold
+- Re-review rate
 
 ## Guardrail Metrics
-- Confidence-based fallback frequency
+- Fallback trigger frequency
 - User override usage
-
